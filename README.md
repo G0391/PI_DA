@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Análisis de Homicidios por Siniestros Viales en CABA</title>
-    <!-- [Agrega cualquier estilo adicional aquí](https://camo.githubusercontent.com/a8afd26d487e19995da36a49959dc1b8286e07a898e1e27d296fde19b23fb461/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067) -->
+    <!-- Agrega cualquier estilo adicional aquí -->
 </head>
 <body>
 
@@ -78,3 +78,4 @@
 
 </body>
 </html>
+
